@@ -1,0 +1,15 @@
+# 忽略 TensorBoard logs
+output/tensorboard/
+
+# 忽略虛擬環境
+venv/
+
+# 忽略 Python 編譯檔
+__pycache__/
+*.pyc
+*.pyo
+
+# 忽略模型檔案
+*.pkl
+*.h5
+*.ckpt
